@@ -1,4 +1,7 @@
-## Hi there 👋
+- Hello, I'm Zayd, an incoming junior at the University of Illinois Urbana-Champaign studying Computer Science!
+- Currently, I am interning at Brookhaven National Laboratory, where I am conducting research in the intersection of AI and chemistry.
+- My main interests are artificial intelligence, computational physics, and web development.
+- Feel free to reach out to me at zkhan91@illinois.edu!
 
 <!--
 **zkhan04/zkhan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

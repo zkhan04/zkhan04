@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=zkhan04)](https://github.com/ryo-ma/github-profile-trophy)
+
 - Hello, I'm Zayd, an incoming junior at the University of Illinois Urbana-Champaign studying Computer Science!
 - Currently, I am interning at Brookhaven National Laboratory, where I am conducting research in the intersection of AI and chemistry.
 - My main interests are artificial intelligence, computational physics, and web development.

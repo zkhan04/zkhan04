@@ -1,5 +1,6 @@
 - Hello, I'm Zayd, a junior at the University of Illinois Urbana-Champaign studying Computer Science with a minor in physics!
 - Currently, I am interning at Brookhaven National Laboratory, where I am conducting research in the intersection of AI and chemistry.
+  - The repo is private rn for government reasons but it'll be public soon!
 - My main interests are artificial intelligence, computational physics, and web development.
 - Feel free to reach out to me at zkhan91@illinois.edu!
 

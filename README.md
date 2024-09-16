@@ -1,4 +1,4 @@
-- Hello, I'm Zayd, a junior at the University of Illinois Urbana-Champaign studying Computer Science with a minor in physics!
+- Hello, I'm Zayd, a new transfer student (junior) at the University of Illinois Urbana-Champaign studying Computer Science with a minor in physics!
 - Currently, I am interning at Brookhaven National Laboratory, where I am conducting research in the intersection of AI and chemistry.
   - The repo is private rn for government reasons but it'll be public soon!
 - My main interests are artificial intelligence, computational physics, and web development.

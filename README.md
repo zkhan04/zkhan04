@@ -1,7 +1,7 @@
 - Hello, I'm Zayd, a new transfer student (junior) at the University of Illinois Urbana-Champaign studying Computer Science with a minor in physics!
-- Currently, I am interning at Brookhaven National Laboratory, where I am conducting research in the intersection of AI and chemistry.
-  - The repo is private rn for government reasons but it'll be public soon!
-- My main interests are artificial intelligence, computational physics, and web development.
+- My main interests are artificial intelligence, computational physics, and full-stack development.
+- Last summer and fall, I interned at Brookhaven National Laboratory, where I conducted research regarding the application of machine learning techniques to help interpret results from x-ray absorption spectroscopy experiments.
+- Currently, I'm working on an open-source clone of LinkedIn's Queens game. Through this project, I've gained proficiency in React, Typescript, Express, and Node.js.
 - Feel free to reach out to me at zkhan91@illinois.edu!
 
 <!--

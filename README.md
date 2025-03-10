@@ -1,6 +1,7 @@
-- Hello, I'm Zayd, a new transfer student (junior) at the University of Illinois Urbana-Champaign studying Computer Science with a minor in physics. 
-- My main interests are artificial intelligence, computational physics, and full-stack development.
+- Hello, I'm Zayd, a new transfer student (junior) at the University of Illinois Urbana-Champaign studying Computer Science!
+- My main interests are artificial intelligence, system programming, and full-stack development.
 - Last summer and fall, I interned at Brookhaven National Laboratory, where I conducted research regarding the application of machine learning techniques to help interpret results from x-ray absorption spectroscopy experiments.
+- This summer, I will be interning at Capital One in NYC under the Technology Internship Program (TIP).
 - Currently, I'm working on an open-source clone of LinkedIn's Queens game w/ a custom board gen algorithm. Through this project, I've gained proficiency across the MERN stack. 
 - Feel free to reach out to me at zkhan91@illinois.edu!
 

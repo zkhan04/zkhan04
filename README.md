@@ -1,10 +1,4 @@
-for the love of the game
-
-zkhan91 \[at\] illinois.edu
-
-specializing in distributed systems, networks and security
-
-incoming @ amazon web services
+0.25x engineer 🥀
 
 <!--
 milk: yo soy milk

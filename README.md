@@ -1,4 +1,4 @@
-0.25x engineer 🥀
+Create (H)read Update Delete
 
 <!--
 milk: yo soy milk
